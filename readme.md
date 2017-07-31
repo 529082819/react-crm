@@ -71,37 +71,6 @@ http://pan.baidu.com/s/1pLdPWgj
 
 
 
-
-## 部分截图
-
-
-### 登录页
-
-<img src="https://github.com/duxianwei520/react/blob/master/screenshots/login.png" width="704" height="561"/> 
-
-
-### 欢迎页
-
-<img src="https://github.com/duxianwei520/react/blob/master/screenshots/welcome.png" width="1010" height="566"/>
-
-
-
-### 列表页
-
-<img src="https://github.com/duxianwei520/react/blob/master/screenshots/list.png" width="1002" height="582"/>
-
-### 请求接口
-
-<img src="https://github.com/duxianwei520/react/blob/master/screenshots/requestData.png" width="885" height="590"/>
-
-
-### 接口按返回
-
-<img src="https://github.com/duxianwei520/react/blob/master/screenshots/receiveData.png" width="997" height="586"/>
-
-
-
-
 ## 项目结构
 
 ```
