@@ -104,7 +104,7 @@ export default class Login extends Component {
         <div className="sy_top"></div>
         <div className="btmLogin">
           <div className="sy_bottom">
-            <h1 id="PerformName">肚皮叔</h1>
+            <h1 id="PerformName">陈晓伟</h1>
             <Row className="ul-wrap">
               <Col span={24}>
                 <Spin spinning={this.state.loading}>
@@ -150,7 +150,7 @@ export default class Login extends Component {
             </Row>
           </div>
         </div>
-        <div id="companyName" className="companyName">肚皮叔股份有限公司</div>
+        <div id="companyName" className="companyName">陈晓伟股份有限公司</div>
       </div>
     )
   }

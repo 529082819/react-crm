@@ -28,7 +28,7 @@ export default class welcome extends Component {
     return (
       <div className="welcome">
         <div className="content">
-          <h2 className="title">肚皮叔：行，我等你</h2>
+          <h2 className="title">陈晓伟：行，我等你</h2>
         </div>
       </div>
     )
